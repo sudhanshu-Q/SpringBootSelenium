@@ -2,11 +2,10 @@ package com.spring.ui.seleniumUi.page.google;
 
 import com.spring.ui.seleniumUi.page.Base;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Lazy;
-import org.springframework.stereotype.Component;
 
 import java.util.List;
 

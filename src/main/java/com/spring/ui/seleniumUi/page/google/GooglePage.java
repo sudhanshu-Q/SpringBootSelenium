@@ -1,18 +1,12 @@
 package com.spring.ui.seleniumUi.page.google;
 
 import com.spring.ui.seleniumUi.page.Base;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.WebElement;
 
-import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Component;
-
-import java.util.logging.Logger;
 
 @Configuration
 @Component
