@@ -10,7 +10,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.List;
 
-//@Component
 @Configuration
 public class SearchComponent extends Base {
 
